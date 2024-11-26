@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumitkumar Dhule
 - 👀 I’m interested in Android and Backend developement.
-- 🌱 I’m currently Kotlin Multi-platform
+- 🌱 I’m currently exloring Kotlin Multi-platform
 - 💞️ I’m looking to collaborate on Any IoT related projects.
 - 📫 You can reach me on https://www.linkedin.com/in/sumitkumar-dhule/
 
